@@ -35,7 +35,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-#disqus_shortname: 
+#disqus_shortname:
 
 # Google analytics
 ga_tracking_id: "UA-70442330-1"
@@ -67,7 +67,7 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: vacationwolf
+    username: VacationWolf
     url: https://www.instagram.com/vacationwolf/
     desc: Follow me on Instagram
     share: false
@@ -81,7 +81,7 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: vacationwolf
+    username: VacationWolf
     url: https://www.facebook.com/wolflifestyleofficial/
     desc: Friend me on Facebook
     share: true
