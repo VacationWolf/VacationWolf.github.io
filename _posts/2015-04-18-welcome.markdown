@@ -6,6 +6,7 @@ author: Alexi Ned
 categories: dummy
 tags:	vacationwolf travelgram beach
 cover:  "assets/header_image.jpg"
+comments: yes
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.

@@ -27,7 +27,7 @@ layout: default
 	  {% endif %}
 	{% endfor %}{% endif %}
 	</div>
-</section>	
+</section>
 
 <article class="post-content">
   {{ content }}
@@ -80,6 +80,15 @@ layout: default
   	{% endif %}
   {% endfor %}
 </section>
+
+
+{% if page.comments %}
+<hr/>
+<h2>Comments</h2>
+<div class="fb-comments" data-href='{{ site.url " }}' '{{ page.url }}' data-num-posts="4" data-width="706"></div>
+
+{% endif %}
+
 
 {% if site.disqus_shortname %}
 {% unless page.disqus_disabled %}
